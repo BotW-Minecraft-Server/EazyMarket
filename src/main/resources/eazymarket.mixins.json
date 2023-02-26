@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "link.botwmcs.samchai.eazymarket.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "eazymarket.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
